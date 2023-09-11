@@ -1,0 +1,15 @@
+.bottle{
+       margin: 10px;
+       padding: 15px;
+       border: 2px solid red;
+       border-radius: 20px;
+       display: grid;
+       
+}
+.img{
+       width: 200px;
+       margin: auto;
+}
+.card{
+       width: 100px;
+}
